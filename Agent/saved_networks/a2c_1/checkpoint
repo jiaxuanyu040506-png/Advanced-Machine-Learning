@@ -1,0 +1,6 @@
+model_checkpoint_path: "bird-a2c-5000000"
+all_model_checkpoint_paths: "bird-a2c-4960000"
+all_model_checkpoint_paths: "bird-a2c-4970000"
+all_model_checkpoint_paths: "bird-a2c-4980000"
+all_model_checkpoint_paths: "bird-a2c-4990000"
+all_model_checkpoint_paths: "bird-a2c-5000000"
